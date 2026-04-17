@@ -1,3 +1,4 @@
 halo ini aku menuliskan materi hari ini
 - ada git commit
 - tapi sebelumnya ketik git add
+- nambah baruuu
