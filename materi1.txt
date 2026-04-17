@@ -2,3 +2,5 @@ materi perkuliahan sim
 - mengubah penyimpanan folder
 - membuat inisial
 - mengecek
+menambahkan materi2
+ada masalah
