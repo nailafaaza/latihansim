@@ -1,0 +1,3 @@
+materi perkuliahan sim
+- mengubah penyimpanan folder
+- membuat inisial
